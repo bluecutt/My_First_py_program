@@ -29,3 +29,4 @@ while B <= 10:
         B += 1
         continue  #在continue之前，一定要修改计数器，否则会陷入死循环
     B += 1
+    6

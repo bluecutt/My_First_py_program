@@ -13,3 +13,7 @@ selected = name_list[:draw_num]
 print(f"\n=== 恭迎队长登基！！！！ ===")
 for i, name in enumerate(selected, 1):
     print(f"{i}. {name}")
+
+
+
+    # FYUFYTF
